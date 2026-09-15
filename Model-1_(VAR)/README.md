@@ -127,6 +127,3 @@ FULL_VARS = [
 
 ---
 
-<p align="center">
-  <i>Built with 🧠 econometrics, ☕ patience, and a healthy respect for the UIP puzzle.</i>
-</p>
