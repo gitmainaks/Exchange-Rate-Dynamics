@@ -118,37 +118,6 @@ FULL_VARS = [
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn statsmodels arch scipy openpyxl
-
-# Launch the notebook
-jupyter notebook "Model-1__VAR_.ipynb"
-```
-
-Make sure `Sub_Sample.xlsx` is placed in the same directory before running.
-
----
-
-## 🔮 Future Extensions
-
-- 🧬 A **structural VAR (SVAR)** with theory-restricted contemporaneous identification, beyond Cholesky ordering
-- ⛓️ A **VECM**, since four of the eight series are individually I(1)
-- ⏱️ **Higher-frequency (weekly/daily) data** to better isolate fast-moving FPI and RBI intervention channels
-- 🧪 Robust/HAC or bootstrapped standard errors given residual autocorrelation and non-normality
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](./LICENSE).
-
 ## 🙏 References
 
 - Fama, E. F. (1984) — *Forward and Spot Exchange Rates*
