@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-VAR-blue)
 ![pandas](https://img.shields.io/badge/pandas-data%20wrangling-150458?logo=pandas&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 > 📈 **A macro-financial VAR model exploring what actually moves the Indian Rupee against the US Dollar — interest rate differentials, global risk, RBI intervention, portfolio flows, oil prices, and current account sustainability — using monthly data from January 2013 to December 2025.**
