@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/statsmodels-ARDL%2FVECM-orange" alt="statsmodels">
   <img src="https://img.shields.io/badge/method-ARDL%20Bounds%20Test-informational" alt="ARDL">
   <img src="https://img.shields.io/badge/sample-Jan%202013%20--%20Dec%202025-lightgrey" alt="Sample period">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
 
 > 🔍 The rupee's long-run value over 2013–2025 is driven almost entirely by **net FPI (portfolio) flows** and **global risk aversion (VIX)** — not by the classical interest-rate-parity channel. Interest differentials and the forward premium matter a lot in the *short run* but vanish as long-run anchors: a textbook restatement of the **forward-premium puzzle**.
