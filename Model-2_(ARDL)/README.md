@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
 
-> 🔍 **TL;DR** — The rupee's long-run value over 2013–2025 is driven almost entirely by **net FPI (portfolio) flows** and **global risk aversion (VIX)** — not by the classical interest-rate-parity channel. Interest differentials and the forward premium matter a lot in the *short run* but vanish as long-run anchors: a textbook restatement of the **forward-premium puzzle**.
+> 🔍 The rupee's long-run value over 2013–2025 is driven almost entirely by **net FPI (portfolio) flows** and **global risk aversion (VIX)** — not by the classical interest-rate-parity channel. Interest differentials and the forward premium matter a lot in the *short run* but vanish as long-run anchors: a textbook restatement of the **forward-premium puzzle**.
 
 ---
 
@@ -69,20 +69,6 @@ Because the underlying macro-financial series exhibit a **mixed order of integra
 - **Core libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
 - **Econometrics:** `statsmodels` (`tsa.stattools`, `tsa.ardl.UECM`, `tsa.vector_ar`), `arch.unitroot.PhillipsPerron`, `scipy.stats`
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd <your-repo-name>
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn statsmodels arch scipy jupyter
-
-# Launch the notebook
-jupyter notebook "Model-2 (ARDL).ipynb"
-```
-
 ## ⚠️ Limitations
 
 - Small sample (n ≈ 155 monthly observations) limits test power, especially for Johansen's trace test.
@@ -98,10 +84,5 @@ jupyter notebook "Model-2 (ARDL).ipynb"
 - Gourinchas, P.-O., & Rey, H. (2005). *International financial adjustment.*
 - Meese, R. A., & Rogoff, K. (1983). *Empirical exchange rate models of the seventies.*
 
-## 📄 License
-
-This project is available under the MIT License — feel free to fork, adapt, and extend the analysis.
-
 ---
 
-<p align="center"><i>🇮🇳 ⇄ 🇺🇸 — Built for understanding, not for trading advice.</i></p>
